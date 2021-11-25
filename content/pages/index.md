@@ -326,7 +326,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     backgroundImage:
-      url: /images/desmond-eagle.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
