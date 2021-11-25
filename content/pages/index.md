@@ -98,7 +98,7 @@ sections:
     type: HeroSection
     media:
       altText: Where did everyone go?
-      caption: Team meeting
+      caption: Team meeting very fun
       elementId: ''
       styles:
         self:
