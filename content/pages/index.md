@@ -325,14 +325,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    backgroundImage:
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
   - elementId: ''
     colors: colors-a
     title: And a strong value proposition
