@@ -29,7 +29,7 @@
                 "type": "Link",
                 "label": "Blog",
                 "altText": "Blog",
-                "url": "/blog"
+                "url": "mailto:"
             }
         ],
         "secondaryLinks": [
