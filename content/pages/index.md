@@ -96,14 +96,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    media:
-      altText: Where did everyone go?
-      caption: Team meeting very fun
-      elementId: ''
-      styles:
-        self:
-          opacity: 100
-      type: ImageBlock
     subtitle: subtitle
   - colors: colors-h
     elementId: ''
