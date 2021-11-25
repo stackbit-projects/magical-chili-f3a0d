@@ -317,7 +317,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     media:
-      url: /favicon.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
